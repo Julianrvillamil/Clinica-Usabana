@@ -1,0 +1,5 @@
+Cardiologia,Car48
+Alergología,Ale25
+Endocrinología,End47
+Infectología,Inf70
+Sicologia,Sic95

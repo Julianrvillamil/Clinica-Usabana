@@ -1,0 +1,4 @@
+9999,30/05/201910:0099992222,bwebvcjuwv,cjwsdbcjvwjdc,sbjchbs,true
+0909,14/05/20199:0009099090,Dolor de espalda,Naproxeno 500mgx40,Radiografia zona Lumbar izquierda, terapia frio-calor,true
+0909,14/05/20199:0009099090,,,,false
+0909,14/05/20199:0009099090,,,,false
